@@ -128,6 +128,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 
-SIMPLEUI_LOGO = "http://127.0.0.1:8000/static/product/inventory.png"
+SIMPLEUI_LOGO = "/static/product/inventory.png"
 
 SIMPLEUI_HOME_INFO = False
